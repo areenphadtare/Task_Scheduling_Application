@@ -1,18 +1,4 @@
 
-<a href="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=30&pause=1000&color=00C9FF&center=true&vCenter=true&width=900&lines=Flask+TODO+Application;Task+Management+System;Python+%7C+Flask+%7C+SQLite;Learn+%E2%86%92+Build+%E2%86%92+Deploy+%F0%9F%9A%80">
-<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=30&pause=1000&color=00C9FF&center=true&vCenter=true&width=900&lines=Flask+TODO+Application;Task+Management+System;Python+%7C+Flask+%7C+SQLite;Learn+%E2%86%92+Build+%E2%86%92+Deploy+%F0%9F%9A%80" alt="Typing SVG">
-</a>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/Flask-Web%20Framework-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-<img src="https://img.shields.io/badge/SQLite-Database-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
-<img src="https://img.shields.io/badge/HTML5-Frontend-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS3-Styling-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-
-<br><br>
-
 <a href="https://github.com/areenphadtare/TODO-Flask">
 <img src="https://img.shields.io/github/stars/areenphadtare/TODO-Flask?style=for-the-badge&logo=github" alt="GitHub Stars">
 </a>
