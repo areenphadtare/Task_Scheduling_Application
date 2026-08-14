@@ -1,6 +1,3 @@
-<div align="center">
-
-# ✅ Flask TODO Application
 
 <a href="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=30&pause=1000&color=00C9FF&center=true&vCenter=true&width=900&lines=Flask+TODO+Application;Task+Management+System;Python+%7C+Flask+%7C+SQLite;Learn+%E2%86%92+Build+%E2%86%92+Deploy+%F0%9F%9A%80">
 <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=30&pause=1000&color=00C9FF&center=true&vCenter=true&width=900&lines=Flask+TODO+Application;Task+Management+System;Python+%7C+Flask+%7C+SQLite;Learn+%E2%86%92+Build+%E2%86%92+Deploy+%F0%9F%9A%80" alt="Typing SVG">
