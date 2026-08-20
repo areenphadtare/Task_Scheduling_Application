@@ -1,27 +1,4 @@
 
-<a href="https://github.com/areenphadtare/TODO-Flask">
-<img src="https://img.shields.io/github/stars/areenphadtare/TODO-Flask?style=for-the-badge&logo=github" alt="GitHub Stars">
-</a>
-
-<a href="https://github.com/areenphadtare/TODO-Flask/forks">
-<img src="https://img.shields.io/github/forks/areenphadtare/TODO-Flask?style=for-the-badge&logo=github" alt="GitHub Forks">
-</a>
-
-<a href="https://github.com/areenphadtare/TODO-Flask/issues">
-<img src="https://img.shields.io/github/issues/areenphadtare/TODO-Flask?style=for-the-badge&logo=github" alt="GitHub Issues">
-</a>
-
-<a href="https://github.com/areenphadtare/TODO-Flask/commits">
-<img src="https://img.shields.io/github/last-commit/areenphadtare/TODO-Flask?style=for-the-badge&logo=github" alt="Last Commit">
-</a>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:00C9FF,50:0072FF,100:7F00FF&text=TODO%20Application&fontSize=42&fontColor=ffffff&animation=fadeIn" alt="TODO Application">
-
-</div>
-
----
 
 # 📖 About the Project
 
